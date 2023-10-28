@@ -1,3 +1,9 @@
 # FluxStore E-Commerce App
 
-Golang project
+Golang backend project
+
+# Features
+
+ - Login User
+ - Set User
+ - Forget - Reset Password
