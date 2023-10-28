@@ -1,9 +1,9 @@
-# FluxStore E-Commerce App
+# E-Commerce App
 
-Golang backend project
+Golang backend project using gofiber web framework and mongodb atlas database.
 
 # Features
 
+ - Sing up User
  - Login User
- - Set User
  - Forget - Reset Password
